@@ -9,7 +9,7 @@ and add a Generator and a Discriminator to it. Then, it would be ready to train 
 
 <br/>
 
-### Dependency Table
+# Dependency Table
 |  Name | Version / Type |
 | ------------ | ------------ |
 |  Python | >= 3.8  |
