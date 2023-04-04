@@ -9,20 +9,7 @@ buffer_size is gained from the dataset and batch size is initialized by 256.
 - 2- Train the model using train method. At the end of the training process, it will show the result image made of 16*16 images of dataset.
 - 3- To test the model, use predict method.
 
-### Result of the training process during 20 epochs
+### A gif that is made of results of the training process during 20 epochs...!
 ![ezgif com-optimize](https://user-images.githubusercontent.com/112881732/229309875-127e6b01-1d55-42a8-8760-531f43f1b6d2.gif)
 
 
-
-<br/>
-
-# Dependency Table
-|  Name | Version / Type |
-| ------------ | ------------ |
-|  Python | >= 3.8  |
-| [OpenCV](https://opencv.org/)   | >= 4.2  |
-| [Mediapipe](https://github.com/google/mediapipe)  |  >= 0.8.9.1 |
-| Numpy  | >= 1.22.3  |
-| PyQt | 5 |
-| IDE | [PyCharm](https://www.jetbrains.com/pycharm/) |
-<br/>
